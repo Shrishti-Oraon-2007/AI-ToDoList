@@ -4,19 +4,16 @@
 
 ## Screenshots:
 ### Screenshot 1
-<img width="1024" height="768" alt="Image" src="https://github.com/user-attachments/assets/f4ecda46-99e4-4a28-8e5b-c55ddc766d57" />
-
-### Screenshot 2
 <img width="1024" height="768" alt="Image" src="https://github.com/user-attachments/assets/6742e91e-10b8-4d2d-b76c-5daa8460f4d2" />
 
-### Screenshot 3
+### Screenshot 2
 <img width="1024" height="768" alt="Image" src="https://github.com/user-attachments/assets/4b08b643-1596-423e-9c10-40a41b13462e" />
 
-### Screenshot 4
+### Screenshot 3
 <img width="1024" height="768" alt="Image" src="https://github.com/user-attachments/assets/21c1f807-ccfe-4b94-a1e0-6ac7a275bca9" />
 
-### Screenshot 5
+### Screenshot 4
 <img width="1024" height="768" alt="Image" src="https://github.com/user-attachments/assets/95e48e5d-2c23-44ad-b075-a9d164f7ed92" />
 
-### Screenshot 6
+### Screenshot 5
 <img width="1024" height="768" alt="Image" src="https://github.com/user-attachments/assets/c3fa7d6b-ec71-4bcf-a777-43a998d60572" />
