@@ -13,7 +13,7 @@ public class AIAssistant {
         // It's generally better practice to load API keys from environment variables
         // or a configuration file rather than hardcoding them directly in the source.
         // For this example, we'll keep it as is.
-        String apiKey = "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";
+        String apiKey = "your api key";
 
         String requestBody = """
         {
