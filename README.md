@@ -1,6 +1,7 @@
 # AI-ToDoList
 
 ## Description:
+This Java Swing application, **ToDoListGUI**, creates an interactive to-do list with AI integration. Users can add tasks, which are displayed in a scrollable list. Selecting a task allows them to request an AI description (via an AIAssistant class, not provided here) that appears in a separate text area, with the AI interaction handled asynchronously to keep the UI responsive.
 
 ## Screenshots:
 ### Screenshot 1
